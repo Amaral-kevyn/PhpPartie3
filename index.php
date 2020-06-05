@@ -6,4 +6,5 @@
     <a href ='exercice5.php'>Exercice 5</a>
     <a href ='exercice6.php'>Exercice 6</a>
     <a href ='exercice7.php'>Exercice 7</a>
+    <a href ='exercice8.php'>Exercice 8</a>
 <?php include 'footer.php';?>
