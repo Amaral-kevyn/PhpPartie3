@@ -7,10 +7,11 @@
 ?>
 
 <h2>Exercice 6</h2>
+
     <?php
-       for($step; $step >= 0 ; $step --){?>
-      <p> <?php echo 'C\'est presque bon'; }
-        ?> </p> 
+       for ($step; $step >= 0 ; $step --){
+    ?>
+        <p> <?php echo 'C\'est presque bon'; } ?> </p> 
       
 <?php 
     include 'footer.php';

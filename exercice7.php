@@ -7,10 +7,10 @@
 ?>
 
 <h2>Exercice 7</h2>
+
     <?php
-       for($step; $step <= 100 ; $step += 15){?>
-      <p> <?php echo 'On tient le bon bout.'; }
-        ?> </p> 
+       for($step; $step <= 100 ; $step += 15){ ?>
+      <p> <?php echo 'On tient le bon bout.'; } ?> </p> 
       
 <?php 
     include 'footer.php';

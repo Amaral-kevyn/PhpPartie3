@@ -6,13 +6,19 @@
     $firstNumber = 100;
     $secondNumber = 55;
 ?>
-    <h1>Exercice 3</h1>
-    <p><?php
+    
+<h1>Exercice 3</h1>
+
+<p>
+    <?php
+
         do {
             echo ' '.($firstNumber * $secondNumber);
             $firstNumber --;            
         }while($firstNumber >= 10);
-    ?></p>
+
+    ?>
+</p>
 
 <?php 
     include 'footer.php';
